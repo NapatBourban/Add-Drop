@@ -146,7 +146,7 @@
         </div>
       </div>
     </div>
-    <div style="margin-top: 15%" class="mx-4 ">
+    <div style="margin-top: 15%" class="mx-4">
       <h3 style="text-align: center; color: aliceblue">
         <div class="shadow-lg p-3 mb-5 bg-black rounded">ข่าวและกิจกรรม</div>
       </h3>
