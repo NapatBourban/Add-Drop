@@ -87,7 +87,7 @@
         </button>
       </div>
 
-      <div id="carouselExampleCaptions" class="carousel slide">
+      <div id="carouselExampleCaptions" class="carousel slide ">
         <div class="carousel-indicators">
           <button
             type="button"
@@ -146,7 +146,7 @@
         </div>
       </div>
     </div>
-    <div style="margin-top: 15%">
+    <div style="margin-top: 15%" class="mx-4 ">
       <h3 style="text-align: center; color: aliceblue">
         <div class="shadow-lg p-3 mb-5 bg-black rounded">ข่าวและกิจกรรม</div>
       </h3>
